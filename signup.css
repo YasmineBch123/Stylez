@@ -1,0 +1,123 @@
+body{
+    background-color: rgb(64, 77, 64);
+}
+#box{
+    background-color: rgb(197, 197, 192);
+    width: 1450px;
+    height: 730px;
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+.loginbx{
+background-color: rgb(207, 204, 198);
+width: 180px;
+height: 50px;
+position: relative;
+box-shadow: 10px 10px rgb(84, 95, 84);
+border-radius: 10px;
+top: -530px;
+left: 480px;
+}
+#text{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    left: 60px;
+    top: 15px;
+    position: relative;
+}
+#signupbx{
+    background-color: rgb(84, 95, 84);
+    width: 180px;
+    height: 50px;
+    position: relative;
+    border-color: rgb(207, 204, 198);
+    box-shadow: 10px 10px  rgb(214, 212, 207);
+    border-radius: 10px;
+    top: -585px;
+    left: 830px;
+}
+#line{
+    background-color: rgb(84, 95, 84);
+    width: 390px;
+    height: 10px;
+    position: relative;
+    top: -90px;
+    left: -280px;
+}
+#text1{
+    font-size:xx-large ;
+    color: rgb(75, 75, 75);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    left: 150px;
+    top: -50px;
+    position: relative;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: rgb(84, 95, 84) ;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  button:hover {
+    opacity:1;
+  }
+  
+  /* Extra styles for the cancel button */
+  .cancelbtn {
+    padding: 14px 20px;
+    background-color:rgb(84, 95, 84) ;
+  }
+  
+  /* Float cancel and signup buttons and add an equal width */
+  .cancelbtn, .signupbtn {
+   width: 310px;
+  }
+  
+  /* Add padding to container elements */
+  .container {
+font-family: 'Courier New', Courier, monospace;
+color: rgb(66, 66, 66);
+width: 280px;
+height: 10px;
+position: relative;
+left: -270px;
+top: 90px;
+
+  }
+
+
+#month{
+    height: 90px;
+    width: 90px;
+    position: relative;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
