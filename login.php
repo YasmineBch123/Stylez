@@ -17,9 +17,10 @@
 
 
     </div>
-    <div id="signupbx">
-       <div id="text">Sign up</div>
-    
+    <a href="signup.html">
+      <div id="signupbx">
+        <div id="text">Sign up</div>
+    </a>
 
     <div id="line">
     <div id="text1">Stylez</div>
